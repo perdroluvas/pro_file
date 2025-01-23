@@ -139,7 +139,7 @@ params:
     button:
       enable: true
       name: "Resume"
-      url: "#"
+      url: "#about"
       download: true
       newPage: false
     socialLinks:
