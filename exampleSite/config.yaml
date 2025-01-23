@@ -86,7 +86,7 @@ params:
 
   # color preference
   # When using hex codes for colors, quotations must be used along with the # sign
-color:
+  color:
     # Light Mode Colors (Gruvbox Light)
     textColor: "#3c3836"           # Dark gray (foreground)
     secondaryTextColor: "#504945"  # Medium gray
@@ -203,7 +203,7 @@ color:
     items:
       - title: Cosmic Tokki
         content: A website linked to a K-POP database that acts as a web list for sharing and communication.
-        image: /images/projects/newjeans.jpeg
+        image: /images/projects/profile.png
         featured:
           name: Demo
           link: https://hugo-profile.netlify.app
